@@ -5,3 +5,6 @@ test git pour essayer
 
 
 on modifie depuis github
+
+
+mais aussi depuis la machine 
